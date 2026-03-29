@@ -111,15 +111,6 @@ ZONE_A → Move Right → ZONE_B → Move Forward → ZONE_C
 └── README.md
 ```
 
----
-
-## 👨‍💻 Author
-
-**Yashraj Debnath**
-B.Tech, Electronics and Instrumentation Engineering
-NIT Rourkela
-
----
 
 ## ⭐ Acknowledgements
 

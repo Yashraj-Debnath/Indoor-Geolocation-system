@@ -69,7 +69,6 @@ ZONE_A → Move Right → ZONE_B → Move Forward → ZONE_C
 ## 💻 Software & Tools
 
 * Arduino IDE
-* Embedded C/C++
 * RadioHead Library (for RF communication)
 
 ---
